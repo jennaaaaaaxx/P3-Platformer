@@ -126,7 +126,7 @@ MonoBehaviour:
   waypoints:
   - {fileID: 0}
   - {fileID: 0}
-  speed: 2
+  speed: 3
 --- !u!61 &4756644783061524664
 BoxCollider2D:
   m_ObjectHideFlags: 0

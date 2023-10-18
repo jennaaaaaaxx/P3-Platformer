@@ -9,28 +9,28 @@ EditorBuildSettings:
     path: Assets/Scenes/Start Screen.unity
     guid: 0958471a36ba550449a92da29f7975a9
   - enabled: 1
-    path: Assets/Scenes/Level 1.unity
+    path: Assets/Scenes/Green Levels/Level 1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Level 2.unity
+    path: Assets/Scenes/Green Levels/Level 2.unity
     guid: f6b236729d668ea46a186aa73d4540c7
   - enabled: 1
-    path: Assets/Scenes/Level 3.unity
+    path: Assets/Scenes/Green Levels/Level 3.unity
     guid: 66352b5bc94f25b4e8ad9e254e26ab78
   - enabled: 1
-    path: Assets/Scenes/Level 4.unity
+    path: Assets/Scenes/Green Levels/Level 4.unity
     guid: bc7f410a4430c004f8ca86371bd4f736
   - enabled: 1
-    path: Assets/Scenes/Level 5.unity
+    path: Assets/Scenes/Green Levels/Level 5.unity
     guid: 7b4b010695b1c084eab79b93ee0f165d
   - enabled: 1
-    path: Assets/Scenes/Level 6.unity
+    path: Assets/Scenes/Green Levels/Level 6.unity
     guid: 03de836c72dc9514e8cd0d83d736ceec
   - enabled: 1
-    path: Assets/Scenes/Level 7.unity
+    path: Assets/Scenes/Green Levels/Level 7.unity
     guid: bbd56a5914e18324490e7e43f000d015
   - enabled: 1
-    path: Assets/Scenes/Level 8.unity
+    path: Assets/Scenes/Green Levels/Level 8.unity
     guid: f7a327e6534f65447912bc1177312e5d
   - enabled: 1
     path: Assets/Scenes/End Screen.unity
